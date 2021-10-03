@@ -1,0 +1,1 @@
+{"antiFeatures":{},"commandLine":["/usr/bin/fdroid update","-v"],"disabled":[],"endTimestamp":1633293569034,"failedBuilds":{},"noPackages":["nekox.messenger"],"startTimestamp":1633293566000,"subcommand":"update"}
