@@ -1,1 +1,1 @@
-{"antiFeatures":{},"commandLine":["/usr/bin/fdroid update","-v"],"disabled":[],"endTimestamp":1633305758532,"failedBuilds":{},"noPackages":["nekox.messenger","nya.kitsunyan.foxydroid.neo"],"startTimestamp":1633305755000,"subcommand":"update"}
+{"antiFeatures":{},"commandLine":["/usr/bin/fdroid update","-v"],"disabled":[],"endTimestamp":1633306192464,"failedBuilds":{},"noPackages":["nekox.messenger","nya.kitsunyan.foxydroid.neo"],"startTimestamp":1633306189000,"subcommand":"update"}
