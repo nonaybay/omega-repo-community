@@ -1,1 +1,1 @@
-{"antiFeatures":{},"commandLine":["/usr/bin/fdroid update","-v"],"disabled":[],"endTimestamp":1633542531729,"failedBuilds":{},"noPackages":["bruenor.magicbox.free","nekox.messenger","nya.kitsunyan.foxydroid.neo"],"startTimestamp":1633542526000,"subcommand":"update"}
+{"antiFeatures":{},"commandLine":["/usr/bin/fdroid update","-v"],"disabled":[],"endTimestamp":1633708461864,"failedBuilds":{},"noPackages":["bruenor.magicbox.free","com.aurora.adroid","nekox.messenger","nya.kitsunyan.foxydroid.neo"],"startTimestamp":1633708459000,"subcommand":"update"}
